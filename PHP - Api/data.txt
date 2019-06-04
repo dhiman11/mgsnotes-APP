@@ -1,0 +1,12 @@
+{
+	"limit": 10,
+	"categories":"" ,
+	"min_usd": "",
+	"max_usd": "",
+	"min_date": "",
+	"max_date": "",
+	"search_input": "",
+	"search_type": "all",
+	"event_name": "this_admin",
+	"search_by_user": "all"
+}
